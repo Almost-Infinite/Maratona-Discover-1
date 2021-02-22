@@ -113,7 +113,7 @@ const Utils = {
     formatAmount(value) {
         value = modalOverlayIn.classList.contains("active") ? Number(value) * 100 : Number(value) * 100 * (-1)
 
-        return value
+        return Math.round(value)
     },
     formatDate(date) {
         const splittedDate = date.split("-")
