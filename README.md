@@ -22,7 +22,7 @@
 
 <br>
 
-# [Click Aqui Para Acessar a Aplicação](https://almost-infinite.github.io/Maratona-Descover/) <br>
+# [Click Aqui Para Acessar a Aplicação](https://almost-infinite.github.io/Maratona-Discover-1/) <br>
 ![screenshot](demo.gif)
 
 
