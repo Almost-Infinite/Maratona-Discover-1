@@ -139,6 +139,7 @@ header {
 }
 .card p {
     font-size: 2rem;
+    white-space:nowrap;
     line-height: 3rem;
     margin-top: 1rem;
 }
